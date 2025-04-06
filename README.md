@@ -32,8 +32,7 @@ The code demonstrates how to combine data analysis with PDF report generation to
 
 *Output*
 
-
-[report.pdf](https://github.com/user-attachments/files/19620319/report.pdf)
+![Image](https://github.com/user-attachments/assets/2e2b001e-85c7-46b3-933f-5768497116a1)
 
 
 
