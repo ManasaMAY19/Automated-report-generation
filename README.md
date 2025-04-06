@@ -35,5 +35,5 @@ The code demonstrates how to combine data analysis with PDF report generation to
 ![Image](https://github.com/user-attachments/assets/2e2b001e-85c7-46b3-933f-5768497116a1)
 
 
-
+![Image](https://github.com/user-attachments/assets/c1447241-a677-4d6a-b53f-cf2d6b11d9b3)
 
